@@ -104,9 +104,12 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 
+#Pour faire en sorte que les app electron type discord utilise wayland
+export ELECTRON_OZONE_PLATFORM_HINT=wayland
 
 alias icat="kitty +kitten icat"
 alias kssh="kitty +kitten ssh"
+alias vim="nvim"
 setxkbmap fr &>/dev/null
 
 # Conf pour faire en sorte que le ps1 change dans distrobox
