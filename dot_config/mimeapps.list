@@ -3,6 +3,7 @@ x-scheme-handler/discord=vesktop.desktop
 x-scheme-handler/mailto=userapp-Thunderbird-9YDPF3.desktop
 message/rfc822=userapp-Thunderbird-9YDPF3.desktop
 x-scheme-handler/mid=userapp-Thunderbird-9YDPF3.desktop
+x-scheme-handler/postman=Postman.desktop
 
 [Added Associations]
 x-scheme-handler/mailto=userapp-Thunderbird-9YDPF3.desktop;

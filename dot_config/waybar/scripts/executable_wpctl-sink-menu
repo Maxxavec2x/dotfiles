@@ -34,7 +34,6 @@ def parse_wpctl_status():
 
     # make the dictionary in this format {'sink_id': <int>, 'sink_name': <str>}
     sinks_dict = [{"sink_id": int(sink.split(".")[0]), "sink_name": sink.split(".")[1].strip()} for sink in sinks]
-
     return sinks_dict
 
 # get the list of sinks ready to put into wofi - highlight the current default sink
