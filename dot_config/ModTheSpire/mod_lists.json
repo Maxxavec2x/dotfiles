@@ -1,0 +1,17 @@
+{
+  "defaultList": "\u003cDefault\u003e",
+  "lists": {
+    "\u003cDefault\u003e": [
+      "BaseMod.jar",
+      "Bestiary.jar",
+      "BetterAnimation.jar",
+      "DarkMap.jar",
+      "MapMarks.jar",
+      "mintySpire.jar",
+      "RelicStats.jar",
+      "RunHistoryPlus.jar",
+      "StSLib.jar",
+      "easel-0.0.3.jar"
+    ]
+  }
+}

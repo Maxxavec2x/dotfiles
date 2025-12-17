@@ -1,0 +1,130 @@
+[
+  {
+    "title": "BetterAnimation",
+    "id": "9846d267",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2554778215",
+    "timeUpdated": 1627734275,
+    "tags": [
+      "qol"
+    ]
+  },
+  {
+    "title": "Bestiary",
+    "id": "88410fd5",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2285965269",
+    "timeUpdated": 1605321710,
+    "tags": [
+      "utility",
+      "monsters",
+      "qol"
+    ]
+  },
+  {
+    "title": "Mapmarks",
+    "id": "aefef1b7",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2935943607",
+    "timeUpdated": 1676833155,
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "title": "Dark Map",
+    "id": "8c020452",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2348942418",
+    "timeUpdated": 1609983674,
+    "tags": [
+      "utility",
+      "qol"
+    ]
+  },
+  {
+    "title": "Run History Plus",
+    "id": "a711bed0",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2802958032",
+    "timeUpdated": 1704236538,
+    "tags": [
+      "utility",
+      "qol"
+    ]
+  },
+  {
+    "title": "Relic Stats",
+    "id": "7e459bbd",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2118491069",
+    "timeUpdated": 1632677484,
+    "tags": [
+      "utility",
+      "qol",
+      "english",
+      "french",
+      "simplified chinese"
+    ]
+  },
+  {
+    "title": "Googly Eyes",
+    "id": "604981ee",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1615430126",
+    "timeUpdated": 1652739185,
+    "tags": [
+      "cosmetic"
+    ]
+  },
+  {
+    "title": "The Animator",
+    "id": "61a69bc1",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1638308801",
+    "timeUpdated": 1634841552,
+    "tags": [
+      "api",
+      "character",
+      "relics",
+      "events",
+      "cards",
+      "bosses",
+      "elites",
+      "monsters",
+      "rooms",
+      "expansion",
+      "content",
+      "rewards",
+      "english",
+      "russian",
+      "simplified chinese",
+      "traditional chinese",
+      "anime"
+    ]
+  },
+  {
+    "title": "StSLib",
+    "id": "5fe9cf6b",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1609158507",
+    "timeUpdated": 1705461763,
+    "tags": [
+      "api"
+    ]
+  },
+  {
+    "title": "BaseMod",
+    "id": "5fb7113b",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1605833019",
+    "timeUpdated": 1706588161,
+    "tags": [
+      "api"
+    ]
+  },
+  {
+    "title": "Minty Spire (QoL Compilation)",
+    "id": "6c0bf8bb",
+    "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1812723899",
+    "timeUpdated": 1717568507,
+    "tags": [
+      "utility",
+      "qol",
+      "english",
+      "korean",
+      "russian",
+      "simplified chinese"
+    ]
+  }
+]

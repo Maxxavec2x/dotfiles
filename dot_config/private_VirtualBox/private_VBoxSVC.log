@@ -1,0 +1,59 @@
+00:00:00.000826 main     VirtualBox XPCOM Server 7.1.10 r169112 linux.amd64 (Jun  3 2025 19:52:37) release log
+00:00:00.000827 main     Log opened 2025-06-06T16:30:58.350735000Z
+00:00:00.000827 main     Build Type: release
+00:00:00.000828 main     OS Product: Linux
+00:00:00.000829 main     OS Release: 6.12.31-1-lts
+00:00:00.000829 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 29 May 2025 09:39:59 +0000
+00:00:00.000841 main     DMI Product Name: MS-7D75
+00:00:00.000846 main     DMI Product Version: 2.0
+00:00:00.000849 main     Firmware type: UEFI
+00:00:00.000895 main     Secure Boot: Disabled
+00:00:00.000914 main     Host RAM: 31691MB (30.9GB) total, 28840MB (28.1GB) available
+00:00:00.000915 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000915 main     Process ID: 13018
+00:00:00.000915 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.002001 main     IPC socket path: /tmp/.vbox-maxx-ipc/ipcd
+00:00:00.016864 DCon01   VirtualBox: object creation starts
+00:00:00.017415 DCon01   Home directory: '/home/maxx/.config/VirtualBox'
+00:00:00.017843 DCon01   Loading settings file "/home/maxx/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.024678 DCon01   HostDnsMonitor: initializing
+00:00:00.024769 DCon01   NAT: resolv.conf: nameserver 192.168.1.254
+00:00:00.024772 DCon01   NAT: resolv.conf: nameserver 2001:861:2002:1540:56c4:5bff:fe03:669c
+00:00:00.024776 DCon01   HostDnsMonitor: updating information
+00:00:00.024780 DCon01   HostDnsMonitor: old information
+00:00:00.024781 DCon01     no server entries
+00:00:00.024782 DCon01     no domain set
+00:00:00.024783 DCon01     no search string entries
+00:00:00.024784 DCon01   HostDnsMonitor: new information
+00:00:00.024785 DCon01     server 1: 192.168.1.254
+00:00:00.024786 DCon01     server 2: 2001:861:2002:1540:56c4:5bff:fe03:669c
+00:00:00.024787 DCon01     domain: lan
+00:00:00.024788 DCon01     search string 1: lan
+00:00:00.034921 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.035280 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.036240 DCon01   Platform architecture set to 'x86'
+00:00:00.037260 DCon01   Loading settings file "/home/maxx/VirtualBox VMs/vm-cible_default_1736611527398_76030/vm-cible_default_1736611527398_76030.vbox" with version "1.19-linux"
+00:00:00.037349 DCon01   Platform architecture set to 'x86'
+00:00:00.037534 DCon01   Platform architecture set to 'x86'
+00:00:00.037980 DCon01   Loading settings file "/home/maxx/VirtualBox VMs/windows xp/windows xp.vbox" with version "1.19-linux"
+00:00:00.038045 DCon01   Platform architecture set to 'x86'
+00:00:00.038233 DCon01   Platform architecture set to 'x86'
+00:00:00.038696 DCon01   Loading settings file "/home/maxx/imagesVMs/kali-linux-2025.1a-virtualbox-amd64/kali-linux-2025.1a-virtualbox-amd64.vbox" with version "1.19-linux"
+00:00:00.038759 DCon01   Platform architecture set to 'x86'
+00:00:00.038953 DCon01   VirtualBox: object created
+00:00:00.394074 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.394644 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:00.442930 DCon03   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:00:00.496593 DCon03   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:00.521827 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.522433 DCon03   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.752608 DCon03   Saving settings file "/home/maxx/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.754069 DCon03   Finished saving settings file "/home/maxx/.config/VirtualBox/VirtualBox.xml"
+00:00:07.261101 main     VirtualBox: object deletion starts
+00:00:07.261136 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/maxx/VirtualBox VMs/vm-cible_default_1736611527398_76030/box-disk001.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:07.261251 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/maxx/VirtualBox VMs/windows xp/windows xp.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:07.261312 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/maxx/imagesVMs/kali-linux-2025.1a-virtualbox-amd64/kali-linux-2025.1a-virtualbox-amd64.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:07.261580 main     HostDnsMonitor: shutting down ...
+00:00:07.277742 main     HostDnsMonitor: shut down
+00:00:07.288047 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:07.288090 main     VirtualBox: object deleted

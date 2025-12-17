@@ -1,0 +1,23 @@
+00:00:00.000729 VirtualBox DHCP Server 7.1.4 r165100 linux.amd64 (Dec 25 2024 18:38:04) release log
+00:00:00.000730 Log opened 2025-01-13T22:06:14.902486000Z
+00:00:00.000730 Build Type: release
+00:00:00.000731 OS Product: Linux
+00:00:00.000731 OS Release: 6.6.70-1-lts
+00:00:00.000732 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 09 Jan 2025 13:22:24 +0000
+00:00:00.000744 DMI Product Name: MS-7D75
+00:00:00.000749 DMI Product Version: 2.0
+00:00:00.000752 Firmware type: UEFI
+00:00:00.000793 Secure Boot: Disabled
+00:00:00.000810 Host RAM: 31694MB (30.9GB) total, 26847MB (26.2GB) available
+00:00:00.000810 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.000811 Process ID: 24514
+00:00:00.000811 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.000817 --config:  HostInterfaceNetworking-vboxnet0
+00:00:00.000818 --comment: HostInterfaceNetworking-vboxnet0
+00:00:00.000867 IP address:   192.168.56.100/24
+00:00:00.000868 Address pool: 192.168.56.101 - 192.168.56.254
+00:00:00.000876 MAC address is not specified: will use generated MAC 08:00:27:36:4c:11
+00:00:00.000878 Db::i_enterFixedAddressAssignment: 08:00:27:36:4c:11: 192.168.56.100
+00:00:00.000880 loading leases from /home/maxx/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.leases
+00:00:00.001057 Runtime error opening '/home/maxx/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.leases' for reading VERR_FILE_NOT_FOUND (File not found.)
+00:00:00.001066 SUP: Opened VMMR0.r0 (/usr/lib/virtualbox/VMMR0.r0) at 0xXXXXXXXXXXXXXXXX.
