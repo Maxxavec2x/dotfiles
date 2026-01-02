@@ -20,12 +20,18 @@
     ]
   },
   {
-    "title": "Mapmarks",
+    "title": "Map Marks",
     "id": "aefef1b7",
     "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2935943607",
-    "timeUpdated": 1676833155,
+    "timeUpdated": 1759435111,
     "tags": [
-      ""
+      "utility",
+      "qol",
+      "korean",
+      "japanese",
+      "thai",
+      "simplified chinese",
+      "vietnamese"
     ]
   },
   {
@@ -42,7 +48,7 @@
     "title": "Run History Plus",
     "id": "a711bed0",
     "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/2802958032",
-    "timeUpdated": 1704236538,
+    "timeUpdated": 1765498948,
     "tags": [
       "utility",
       "qol"
@@ -99,7 +105,7 @@
     "title": "StSLib",
     "id": "5fe9cf6b",
     "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1609158507",
-    "timeUpdated": 1705461763,
+    "timeUpdated": 1755743434,
     "tags": [
       "api"
     ]
@@ -108,7 +114,7 @@
     "title": "BaseMod",
     "id": "5fb7113b",
     "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1605833019",
-    "timeUpdated": 1706588161,
+    "timeUpdated": 1755743354,
     "tags": [
       "api"
     ]
@@ -117,14 +123,14 @@
     "title": "Minty Spire (QoL Compilation)",
     "id": "6c0bf8bb",
     "installPath": "/home/maxx/.local/share/Steam/steamapps/workshop/content/646570/1812723899",
-    "timeUpdated": 1717568507,
+    "timeUpdated": 1754420144,
     "tags": [
-      "utility",
       "qol",
+      "utility",
       "english",
+      "simplified chinese",
       "korean",
-      "russian",
-      "simplified chinese"
+      "russian"
     ]
   }
 ]

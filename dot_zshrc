@@ -106,6 +106,14 @@ source $ZSH/oh-my-zsh.sh
 
 #Pour faire en sorte que les app electron type discord utilise wayland
 export ELECTRON_OZONE_PLATFORM_HINT=wayland
+export EDITOR=nvim
+function y() { # Pour yazi 
+	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+	yazi "$@" --cwd-file="$tmp"
+	IFS= read -r -d '' cwd < "$tmp"
+	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
+	rm -f -- "$tmp"
+}
 
 alias icat="kitty +kitten icat"
 alias kssh="kitty +kitten ssh"

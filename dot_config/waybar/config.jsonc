@@ -15,6 +15,7 @@
         "tray",
         "memory",
         "cpu",
+        "battery",
         "network",
         "wireplumber#sink",
         "wireplumber#source"

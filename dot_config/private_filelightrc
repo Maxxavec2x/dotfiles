@@ -2,7 +2,7 @@
 contrast=68
 scanAcrossMounts=false
 scanRemoteMounts=false
-scheme=0
+scheme=1
 showFoldersSidebar=true
 showSmallFiles=false
 skipList[$e]=/dev,/proc,/sys,/root
